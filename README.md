@@ -1,4 +1,4 @@
-# CloudSaver---Automated-Cloud-Cost-Cutting-System
+# CloudSaver:-Automated-Cloud-Cost-Cutting-System
 
 CloudSaver is an automated monitoring system that helps reduce unnecessary cloud costs by detecting underutilized EC2 instances and stopping them. This system is ideal for students, startups, or organizations trying to optimize AWS infrastructure costs.
 
